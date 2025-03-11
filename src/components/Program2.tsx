@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-export default function StringOperations() {
+export default function Program2() {
   const [mainString, setMainString] = useState('');
   const [pattern, setPattern] = useState('');
   const [replacement, setReplacement] = useState('');
